@@ -25,7 +25,7 @@
 
 ### GET IN TOUCH
 <!-- ![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white) -->
-[<img alt="Telegram" width="44px" src="https://user-images.githubusercontent.com/43148270/147075902-79aed362-d729-4350-8a5c-ae619c3a07d7.png" />](https://t.me/ustin_d)
+[<img alt="Telegram" width="44px" src="https://user-images.githubusercontent.com/43148270/147075902-79aed362-d729-4350-8a5c-ae619c3a07d7.png" />](https://t.me/d_ustin)
 
 <!--
 **ustinuD/ustinuD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
